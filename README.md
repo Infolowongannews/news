@@ -1,1 +1,2 @@
 # news
+# info lowongan news
